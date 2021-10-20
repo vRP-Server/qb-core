@@ -1032,7 +1032,7 @@ QBShared.Vehicles = {
 		["camarozl1"] = 		{["name"] = "Chevrolet Camero",					["brand"] = "chevelerot",			["model"] = "camarozl1",			["price"] = 150000,			["category"] = "muscle",			["hash"] = "camarozl1",				["shop"] = "custom",},
 		["2019zr1"] = 			{["name"] = "Chevrolet Corevette ZR1",			["brand"] = "Chevrolet",			["model"] = "2019zr1",				["price"] = 300000,			["category"] = "sports",			["hash"] = "2019zr1",				["shop"] = "custom",},
 		["stingray"] = 			{["name"] = "Chevrolet Corvette",				["brand"] = "Chevrolet",			["model"] = "stingray",				["price"] = 400000,			["category"] = "muscle",			["hash"] = "stingray",				["shop"] = "custom",},
-		["c7"] = 				{["name"] = "Chevrolet Corvette Sting",			["brand"] = "Chevrolet",			["model"] = "c7",					["price"] = 340000,			["category"] = "coupes",			["hash"] = "c7",					["shop"] = "custom",},
+		-- ["c7"] = 				{["name"] = "Chevrolet Corvette Sting",			["brand"] = "Chevrolet",			["model"] = "c7",					["price"] = 340000,			["category"] = "coupes",			["hash"] = "c7",					["shop"] = "custom",},
 		["exor"] = 				{["name"] = "Chevrolet ZL1 Excorcist",			["brand"] = "Chevrolet",			["model"] = "exor",					["price"] = 300000,			["category"] = "muscle",			["hash"] = "exor",					["shop"] = "custom",},
 		["16challenger"] = 		{["name"] = "Dodge Challenger",					["brand"] = "Dodge",				["model"] = "16challenger",			["price"] = 195000,			["category"] = "coupes",			["hash"] = "16challenger",			["shop"] = "custom",},
 		["charge4"] = 			{["name"] = "Dodge Charger (wheel in Boot)",	["brand"] = "Dodge",				["model"] = "charge4",				["price"] = 400000,			["category"] = "muscle",			["hash"] = "charge4",				["shop"] = "custom",},
