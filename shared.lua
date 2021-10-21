@@ -1021,7 +1021,7 @@ QBShared.Vehicles = {
 		["ben17"] = 			{["name"] = "bentley Continental",				["brand"] = "Bentley",				["model"] = "ben17",				["price"] = 450000,			["category"] = "sports",			["hash"] = "ben17",					["shop"] = "custom",},
 		["m3e46"] = 			{["name"] = "BMW M3",							["brand"] = "M3 E46",				["model"] = "m3e46",				["price"] = 240000,			["category"] = "coupes",			["hash"] = "m3e46",					["shop"] = "custom",},
 		["m4c"] = 				{["name"] = "BMW M4",							["brand"] = "BMW",					["model"] = "m4c",					["price"] = 300000,			["category"] = "sedans",			["hash"] = "m4c",					["shop"] = "custom",},
-		["f82"] = 				{["name"] = "BMW M4 GTS",						["brand"] = "BMW",					["model"] = "f82",					["price"] = 250000,			["category"] = "coupes",			["hash"] = "f82",					["shop"] = "custom",},
+		-- ["f82"] = 				{["name"] = "BMW M4 GTS",						["brand"] = "BMW",					["model"] = "f82",					["price"] = 250000,			["category"] = "coupes",			["hash"] = "f82",					["shop"] = "custom",},
 		["bmci"] = 				{["name"] = "BMW M5",							["brand"] = "BMW",					["model"] = "bmci",					["price"] = 280000,			["category"] = "coupes",			["hash"] = "bmci",					["shop"] = "custom",},
 		["rmodm5e34"] = 		{["name"] = "BMW M5",							["brand"] = "BMW",					["model"] = "rmodm5e34",			["price"] = 230000,			["category"] = "sedans",			["hash"] = "rmodm5e34",				["shop"] = "custom",},
 		["rmodbmwm8"] = 		{["name"] = "BMW M8 comp",						["brand"] = "BMW",					["model"] = "rmodbmwm8",			["price"] = 450000,			["category"] = "sedans",			["hash"] = "rmodbmwm8",				["shop"] = "custom",},
