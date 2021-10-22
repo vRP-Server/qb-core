@@ -1281,7 +1281,7 @@ QBShared.Vehicles = {
 		["feltzer2"] = 			{["name"] = "Feltzer",							["brand"] = "Benefactor",			["model"] = "feltzer2",				["price"] = 83500,			["category"] = "sports",			["hash"] = "feltzer2",				["shop"] = "pdm",},
 		["flashgt"] = 			{["name"] = "Flash GT",							["brand"] = "Vapid",				["model"] = "flashgt",				["price"] = 111000,			["category"] = "sports",			["hash"] = "flashgt",				["shop"] = "pdm",},
 		["fmj"] = 				{["name"] = "FMJ",								["brand"] = "Vapid",				["model"] = "fmj",					["price"] = 335000,			["category"] = "super",				["hash"] = "fmj",					["shop"] = "pdm",},
-		["rsfocus"] = 			{["name"] = "Ford Focus RS",					["brand"] = "Ford",					["model"] = "rsfocus",				["price"] = 70000,			["category"] = "sedans",			["hash"] = "rsfocus",				["shop"] = "pdm",},
+		["focusrs"] = 			{["name"] = "Ford Focus RS",					["brand"] = "Ford",					["model"] = "focusrs",				["price"] = 70000,			["category"] = "sedans",			["hash"] = "focusrs",				["shop"] = "pdm",},
 		["fmgt"] = 				{["name"] = "Ford Mustang GT",					["brand"] = "Ford",					["model"] = "fmgt",					["price"] = 120000,			["category"] = "muscle",			["hash"] = "mgt",					["shop"] = "pdm",},
 		["svt00"] = 			{["name"] = "Ford Mustang SVT",					["brand"] = "Ford",					["model"] = "svt00",				["price"] = 100000,			["category"] = "muscle",			["hash"] = "svt00",					["shop"] = "pdm",},
 		["fq2"] = 				{["name"] = "FQ2",								["brand"] = "Fathom",				["model"] = "fq2",					["price"] = 38000,			["category"] = "suvs",				["hash"] = "fq2",					["shop"] = "pdm",},
