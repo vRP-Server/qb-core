@@ -461,9 +461,12 @@ QBShared.Items = {
     ["sodiumhydroxide"] 			 = {["name"] = "sodiumhydroxide", 				["label"] = "Sodium hydroxide", 		["weight"] = 2, 		["type"] = "item", 		["image"] = "sodiumhydroxide.png", 		["unique"] = false, 	["useable"] = true, 	["shouldClose"] = true,	   ["combinable"] = nil,   ["description"] = "sodium hydroxide"},
     ["sulfuricacid"] 				 = {["name"] = "sulfuricacid", 				    ["label"] = "Sulfuric acid", 			["weight"] = 2, 		["type"] = "item", 		["image"] = "sulfuricacid.png", 		["unique"] = false, 	["useable"] = true, 	["shouldClose"] = true,	   ["combinable"] = nil,   ["description"] = "sulfuri cacid"},
     ["sulfuricacid_bottle"] 		 = {["name"] = "sulfuricacid_bottle", 			["label"] = "Sulfuric acid bottle", 	["weight"] = 2, 		["type"] = "item", 		["image"] = "sulfuricacid_bottle.png", 	["unique"] = false, 	["useable"] = true, 	["shouldClose"] = true,	   ["combinable"] = nil,   ["description"] = "bottle of sulfuric bottle"},
-
+	--Mining
 	['diamond'] 					 = {['name'] = 'diamond', 			  	  		['label'] = 'Diamond', 					['weight'] = 100, 		['type'] = 'item', 		['image'] = 'diamond.png', 				['unique'] = false, 	['useable'] = false, 	['shouldClose'] = false,   ['combinable'] = nil,   ['description'] = 'Nice piece of metal that you can probably use for something'},
 	['emerald'] 					 = {['name'] = 'emerald', 			  	  		['label'] = 'Emerald', 					['weight'] = 100, 		['type'] = 'item', 		['image'] = 'emerald.png', 				['unique'] = false, 	['useable'] = false, 	['shouldClose'] = false,   ['combinable'] = nil,   ['description'] = 'Nice piece of metal that you can probably use for something'},
+	--Casino
+	["member"]						 = {["name"] = "member",						["label"] = "Casino Membership",		["weight"] = 500,		["type"] = "item",		["image"] = "member.png",				["unique"] = false,		["useable"] = false,	["shouldClose"] = false,	["combinable"] = nil,	["description"] = "Diamond Casino Member Card"},
+	["vip"]							 = {["name"] = "vip",							["label"] = "V.I.P Membership",			["weight"] = 500,		["type"] = "item",		["image"] = "vip.png",					["unique"] = false,		["useable"] = false,	["shouldClose"] = false,	["combinable"] = nil,	["description"] = "Diamond Casino V.I.P Card"},
 }
 
 -- // HASH WEAPON ITEMS, NEED SOMETIMES TO GET INFO FOR CLIENT
@@ -1421,3 +1424,4 @@ QBShared.Vehicles = {
 		["zombieb"] = 			{["name"] = "Zombie Chopper",					["brand"] = "Steel Horse",			["model"] = "zombieb",				["price"] = 17000,			["category"] = "motorcycles",		["hash"] = "zombieb",				["shop"] = "pdm",},
 		["ztype"] = 			{["name"] = "Z-Type",							["brand"] = "Truffade",				["model"] = "ztype",				["price"] = 2500000,		["category"] = "sportsclassics",	["hash"] = "ztype",					["shop"] = "pdm",},
 }
+
