@@ -467,6 +467,11 @@ QBShared.Items = {
 	--Casino
 	["member"]						 = {["name"] = "member",						["label"] = "Casino Membership",		["weight"] = 500,		["type"] = "item",		["image"] = "member.png",				["unique"] = false,		["useable"] = false,	["shouldClose"] = false,	["combinable"] = nil,	["description"] = "Diamond Casino Member Card"},
 	["vip"]							 = {["name"] = "vip",							["label"] = "V.I.P Membership",			["weight"] = 500,		["type"] = "item",		["image"] = "vip.png",					["unique"] = false,		["useable"] = false,	["shouldClose"] = false,	["combinable"] = nil,	["description"] = "Diamond Casino V.I.P Card"},
+	['goldchip'] 				 	 = {['name'] = 'goldchip', 			  			['label'] = 'Gold Casino Chips', 		['weight'] = 1, 		['type'] = 'item', 		['image'] = 'goldpokerchips.png', 		['unique'] = false, 	['useable'] = false, 	['shouldClose'] = false,	['combinable'] = nil,   ['description'] = 'Gold Chips For Casino Gambling'},
+	['blackchip'] 			 		 = {['name'] = 'blackchip', 			  		['label'] = 'Black Casino Chips', 		['weight'] = 1, 		['type'] = 'item', 		['image'] = 'blackpokerchips.png', 		['unique'] = false, 	['useable'] = false, 	['shouldClose'] = false,	['combinable'] = nil,   ['description'] = 'Black Chips For Casino Gambling'},
+	['bluechip'] 				 	 = {['name'] = 'bluechip', 			  			['label'] = 'Blue Casino Chips', 		['weight'] = 1, 		['type'] = 'item', 		['image'] = 'bluepokerchips.png', 		['unique'] = false, 	['useable'] = false, 	['shouldClose'] = false,	['combinable'] = nil,   ['description'] = 'Blue Chips For Casino Gambling'},
+	['redchip'] 				 	 = {['name'] = 'redchip', 			  			['label'] = 'Red Casino Chips', 		['weight'] = 1, 		['type'] = 'item', 		['image'] = 'redpokerchips.png', 		['unique'] = false, 	['useable'] = false, 	['shouldClose'] = false,	['combinable'] = nil,   ['description'] = 'Red Chips For Casino Gambling'},
+	['whitechip'] 			 	     = {['name'] = 'whitechip', 			  		['label'] = 'White Casino Chips', 		['weight'] = 1, 		['type'] = 'item', 		['image'] = 'whitepokerchips.png', 		['unique'] = false, 	['useable'] = false, 	['shouldClose'] = false,	['combinable'] = nil,   ['description'] = 'White Chips For Casino Gambling'},
 }
 
 -- // HASH WEAPON ITEMS, NEED SOMETIMES TO GET INFO FOR CLIENT
@@ -1041,7 +1046,7 @@ QBShared.Vehicles = {
 		["charge4"] = 			{["name"] = "Dodge Charger (wheel in Boot)",	["brand"] = "Dodge",				["model"] = "charge4",				["price"] = 400000,			["category"] = "muscle",			["hash"] = "charge4",				["shop"] = "custom",},
 		["chr20"] = 			{["name"] = "Dodge Charger Hellcat 2020",		["brand"] = "Dodge",				["model"] = "chr20",				["price"] = 150000,			["category"] = "custom",			["hash"] = "chr20",					["shop"] = "custom",},
 		["21durango"] = 		{["name"] = "Dodge Durango srt",				["brand"] = "Dodge",				["model"] = "21durango",			["price"] = 250000,			["category"] = "muscle",			["hash"] = "21durango",				["shop"] = "custom",},
-		["ram2500"] = 			{["name"] = "Dodge RAM 2500",					["brand"] = "Dodge",				["model"] = "ram2500",				["price"] = 140000,			["category"] = "coupes",			["hash"] = "ram2500",				["shop"] = "custom",},
+		-- ["ram2500"] = 			{["name"] = "Dodge RAM 2500",					["brand"] = "Dodge",				["model"] = "ram2500",				["price"] = 140000,			["category"] = "coupes",			["hash"] = "ram2500",				["shop"] = "custom",},
 		["Viper"] = 			{["name"] = "Dodge Viper",						["brand"] = "Dodge",				["model"] = "Viper",				["price"] = 200000,			["category"] = "muscle",			["hash"] = "Viper",					["shop"] = "custom",},
 		["diavel"] = 			{["name"] = "Ducati Diavel",					["brand"] = "Ducati",				["model"] = "diavel",				["price"] = 180000,			["category"] = "custom",			["hash"] = "diavel",				["shop"] = "custom",},
 		["dm1200"] = 			{["name"] = "Ducati Multistrada",				["brand"] = "Ducati",				["model"] = "dm1200",				["price"] = 150000,			["category"] = "custom",			["hash"] = "dm1200",				["shop"] = "custom",},
