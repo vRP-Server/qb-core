@@ -793,26 +793,27 @@ QBShared.Jobs = {
 		defaultDuty = true,
 		grades = {
             ['0'] = {
-                name = 'Recruit',
-                payment = 300
+                name = 'Agent',
+                payment = 500
             },
 			['1'] = {
-                name = 'House Sales',
-                payment = 400
-            },
-			['2'] = {
-                name = 'Business Sales',
-                payment = 600
-            },
-			['3'] = {
-                name = 'Broker',
+                name = 'Manager',
                 payment = 750
             },
-			['4'] = {
-                name = 'Manager',
+			['2'] = {
+                name = 'CEO',
 				isboss = true,
                 payment = 1000
             },
+			-- ['3'] = {
+            --     name = 'Broker',
+            --     payment = 750
+            -- },
+			-- ['4'] = {
+            --     name = 'Manager',
+			-- 	isboss = true,
+            --     payment = 1000
+            -- },
         },
 	},
 	['taxi'] = {
