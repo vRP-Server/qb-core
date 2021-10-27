@@ -613,23 +613,33 @@ QBShared.Gangs = {
         },
 	},
 	['lostmc'] = {
-		label = 'The Lost MC',
+		label = 'Sons of Anarchy',
 		grades = {
             ['0'] = {
-                name = 'Recruit'
+                name = 'Prospect'
             },
-			['1'] = {
+            ['1'] = {
                 name = 'Enforcer'
             },
 			['2'] = {
-                name = 'Shot Caller'
+                name = 'Secretary/Treasurer'
             },
 			['3'] = {
-                name = 'Boss',
+                name = 'Road Captain',
+            },
+			['4'] = {
+                name = 'SGT at Arms'
+            },
+			['5'] = {
+                name = 'Vice President'
+            },
+			['6'] = {
+                name = 'President',
 				isboss = true
             },
         },
 	},
+
 	['ballas'] = {
 		label = 'Ballas',
 		grades = {
@@ -1113,7 +1123,7 @@ QBShared.Vehicles = {
 		["teslax"] = 			{["name"] = "Tesla Model X P90D",				["brand"] = "Tesla",				["model"] = "teslax",				["price"] = 120000,			["category"] = "suvs",				["hash"] = "teslax",				["shop"] = "custom",},
 		["180326"] = 			{["name"] = "Toyota 180SX",						["brand"] = "Toyota",				["model"] = "180326",				["price"] = 250000,			["category"] = "sedans",			["hash"] = "180326",				["shop"] = "custom",},
 		["tsgr20"] = 			{["name"] = "Toyota Supra GR 2020",				["brand"] = "Toyota",				["model"] = "tsgr20",				["price"] = 300000,			["category"] = "sports",			["hash"] = "tsgr20",				["shop"] = "custom",},
-	--DONO----------DONO----------DONO----------DONO----------DONO----------DONO----------DONO----------DONO----------DONO----------DONO----------DONO----------DONO----------DONO----------DONO----------DONO----------DONO----------DONO----------DONO----------DONO----------DONO---	
+	--DONO----------DONO----------DONO----------DONO----------DONO----------DONO----------DONO----------DONO----------DONO----------DONO----------DONO----------DONO----------DONO----------DONO----------DONO----------DONO----------DONO----------DONO----------DONO----------DONO---
 		["rmodmk7"] = 			{["name"] = "Golf R MK7 ",						["brand"] = "Golf",					["model"] = "rmodmk7",				["price"] = 10,				["category"] = "sedans",			["hash"] = "rmodmk7",				["shop"] = "dono",},
 		["rmodbiposto"] = 		{["name"] = "Abarth 500 biposto 6G5",			["brand"] = "Abarth",				["model"] = "rmodbiposto",			["price"] = 7,				["category"] = "Hatchback",			["hash"] = "rmodbiposto",			["shop"] = "dono",},
 		["ad11"] = 				{["name"] = "Aston Martin D11",					["brand"] = "Aston Martin",			["model"] = "ad11",					["price"] = 100000,			["category"] = "sports",			["hash"] = "ad11",					["shop"] = "dono",},
