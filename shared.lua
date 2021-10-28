@@ -1088,7 +1088,7 @@ QBShared.Vehicles = {
 		["720wideprzemo"] = 	{["name"] = "Maclaren 720",						["brand"] = "Maclaren ",			["model"] = "720wideprzemo",		["price"] = 300000,			["category"] = "sports",			["hash"] = "720wideprzemo",			["shop"] = "custom",},
 		["mqgts"] = 			{["name"] = "Maserati GTS",						["brand"] = "Maserati",				["model"] = "mqgts",				["price"] = 150000,			["category"] = "sedans",			["hash"] = "mqgts",					["shop"] = "custom",},
 		["dkrx7"] = 			{["name"] = "Mazda RX7",						["brand"] = "mazda",				["model"] = "dkrx7",				["price"] = 300000,			["category"] = "sports",			["hash"] = "dkrx7",					["shop"] = "custom",},
-		["fd"] = 				{["name"] = "Mazda RX7 Tuned",					["brand"] = "Mazda",				["model"] = "fd",					["price"] = 145000,			["category"] = "coupes",			["hash"] = "fd",					["shop"] = "custom",},
+		-- ["fd"] = 				{["name"] = "Mazda RX7 Tuned",					["brand"] = "Mazda",				["model"] = "fd",					["price"] = 145000,			["category"] = "coupes",			["hash"] = "fd",					["shop"] = "custom",},
 		["675lt"] = 			{["name"] = "Mclaren 675lt",					["brand"] = "Maclaren ",			["model"] = "675lt",				["price"] = 400000,			["category"] = "sports",			["hash"] = "675lt",					["shop"] = "custom",},
 		["gls63"] = 			{["name"] = "Mercdedes GLS Brabus",				["brand"] = "Mercedes",				["model"] = "gls63",				["price"] = 400000,			["category"] = "suvs",				["hash"] = "gls63",					["shop"] = "custom",},
 		["mbbs20"] = 			{["name"] = "Mercdedes GT AMG",					["brand"] = "Mercedes",				["model"] = "mbbs20",				["price"] = 350000,			["category"] = "sports",			["hash"] = "mbbs20",				["shop"] = "custom",},
